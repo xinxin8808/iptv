@@ -20,21 +20,21 @@ https://bloomberg.com/media-manifest/streams/asia.m3u8
 https://bloomberg.com/media-manifest/streams/asia-event.m3u8
 #EXTINF:-1 tvg-id="NBATV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="Sports",NBA TV (720p)
 http://38.96.178.201/live/NBA/index.m3u8
-#EXTINF:-1 tvg-id="Sky Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="Sports",NBA TV (720p)
+#EXTINF:-1 tvg-id="Sky Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="Sports",Sky Sport (720p)
 https://donelfantastic.github.io/live/skysportsNz8.m3u8
-#EXTINF:-1 tvg-id="Sky Sport1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="Sports",NBA TV (720p)
+#EXTINF:-1 tvg-id="Sky Sport1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="Sports",Sky Sport1 (720p)
 https://donelfantastic.github.io/live/skysportsNz1.m3u8
-#EXTINF:-1 tvg-id="Sky Sport2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="Sports",NBA TV (720p)
+#EXTINF:-1 tvg-id="Sky Sport2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="Sports",Sky Sport2 (720p)
 https://donelfantastic.github.io/live/skysportsNz2.m3u8
-#EXTINF:-1 tvg-id="Sky Sport3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="Sports",NBA TV (720p)
+#EXTINF:-1 tvg-id="Sky Sport3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="Sports",Sky Sport3 (720p)
 https://donelfantastic.github.io/live/skysportsNz3.m3u8
-#EXTINF:-1 tvg-id="Sky Sport4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="Sports",NBA TV (720p)
+#EXTINF:-1 tvg-id="Sky Sport4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="Sports",Sky Sport4 (720p)
 https://donelfantastic.github.io/live/skysportsNz4.m3u8
-#EXTINF:-1 tvg-id="Sky Sport5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="Sports",NBA TV (720p)
+#EXTINF:-1 tvg-id="Sky Sport5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="Sports",Sky Sport5 (720p)
 https://donelfantastic.github.io/live/skysportsNz5.m3u8
-#EXTINF:-1 tvg-id="Sky Sport6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="Sports",NBA TV (720p)
+#EXTINF:-1 tvg-id="Sky Sport6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="Sports",Sky Sport6 (720p)
 https://donelfantastic.github.io/live/skysportsNz6.m3u8
-#EXTINF:-1 tvg-id="Sky Sport7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="Sports",NBA TV (720p)
+#EXTINF:-1 tvg-id="Sky Sport7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="Sports",Sky Sport7 (720p)
 https://donelfantastic.github.io/live/skysportsNz7.m3u8
-#EXTINF:-1 tvg-id="Sky Sport8" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="Sports",NBA TV (720p)
+#EXTINF:-1 tvg-id="Sky Sport8" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="Sports",Sky Sport8 (720p)
 https://donelfantastic.github.io/live/skysportsNz9.m3u8
